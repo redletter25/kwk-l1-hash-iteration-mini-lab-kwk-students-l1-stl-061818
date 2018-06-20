@@ -27,9 +27,9 @@ summer_olympics = {
   "London" => "2012"
 }
 
-puts summer_olympics.each do |city, year|
+ summer_olympics.each do |city, year|
 
-puts"the #{city} summer olympics took place in #{
+puts"the #{city} summer olympics took place in #{year}"
 
 
 

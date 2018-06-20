@@ -27,7 +27,7 @@ summer_olympics = {
   "London" => "2012"
 }
 
-puts summer_olympics
+puts summer_olympics.each do 
 
 
 

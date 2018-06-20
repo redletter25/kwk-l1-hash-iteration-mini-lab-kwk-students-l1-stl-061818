@@ -29,11 +29,11 @@ summer_olympics = {
 
  summer_olympics.each do |city, year|
 
-puts"the #{city} summer olympics took place in #{year}."
-puts ""
+ puts"the #{city} summer olympics took place in #{year}."
+ puts ""
 
-
-
+end
+summer_olympics
 
 
 

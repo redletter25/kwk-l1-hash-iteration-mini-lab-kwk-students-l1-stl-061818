@@ -29,7 +29,7 @@ summer_olympics = {
 
 puts summer_olympics.each do |city, year|
 
-
+puts"the #{city} summer olympics took place in #{
 
 
 
